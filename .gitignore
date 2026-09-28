@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Gengruc runtime data
+data.json
+cert.pem
+key.pem
+ssh_host_key
+chat.db
+access.log
+favicon.ico
+free_nicks.txt
+
+# Папки с данными
+pages/
+backups/
+users/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
